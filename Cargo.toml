@@ -1,0 +1,8 @@
+[package]
+name = "keytaps"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+core-graphics = "0.24"
+core-foundation = "0.10"
